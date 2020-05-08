@@ -1,0 +1,9 @@
+Tools and Technologies 
+
+Our project is a very complex application with the need for many tools and technologies. I have listed below the tools that will be required to get our project off the ground.  
+
+First, the website/ application will need a name, so the first stop will be to Namecheap.com to purchase a license for a domain name and an SSL certificate for privacy and security. This will be an annual cost to renew the domain name each year. The domain will need to be hosted, therefore, Hostgator is the next stop to purchase hosting. I have used Hostgator in the past and have found them to be very reliable. This will also incur an annual fee, although you can choose to pay these fees for multiple years at a time.  
+
+Next, we will need a way to write the code, Amazon Cloud 9 is the choice here. A cloud-based service that has a monthly charge depending on usage.  Microsoft Access will be used for the creation of the databases for collecting and storing all of Voyage customers information. API’s will be used in our code to generate available transport and accommodation retailers for the purpose of allowing the customer to choose when and how they travel to the destination as well as where they will stay for the duration. For this we will use Rapid API, this is a site that has all types of API’s ready for code deployment on our project. 
+
+Finally, we will need a payment gateway for people to purchase through the app. Paypal’s Payflow is the tool that we will use. It allows for secure credit card and Paypal account transfers to pay for goods and services. The basic option is free, the only charge is a small fee per transaction, but no annual license required. 
